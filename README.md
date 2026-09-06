@@ -45,7 +45,7 @@ For detailed informations about `luau_settings`: [Fiu](https://github.com/rce-in
 |   ├── <ModuleScript> Ception (Ception.luau)
 └── └── <ModuleScript> Fiu (Fiu.luau)
 ```
-> Building with Rojo is not recommended because Roblox doesn't allow to set very long script source via `Script.Source` method.
+> Syncing with Rojo is not recommended because Roblox doesn't allow to set very long script source via `Script.Source` method.
 ### Tips to add large 'ModuleScript' into Roblox Studio
 Roblox Studio could be crashed when you try to paste the large script into Roblox Studio.<br>
 This tips may solve that problem.
