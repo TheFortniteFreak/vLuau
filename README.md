@@ -1,5 +1,4 @@
 # vLuau
-[![oosmetrics](https://api.oosmetrics.com/api/v1/badge/achievement/97a76339-7ee8-46a8-b141-6d3e023f6b85.svg)](https://oosmetrics.com/repo/kosuke14/vLuau)
 
 vLuau is a Luau VM with compiler which can be ran in Roblox.<br>
 Like vLua but with Fully Luau Support. (native code generation and some optimizations are excepted)<br>
