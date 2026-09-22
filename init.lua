@@ -15,8 +15,8 @@
 		gh:TheGreatSageEqualToHeaven/Fiu (  Luau Bytecode Interpreter written in Luau  )
 --]]
 
-local Loader = require(script:WaitForChild("Fiu"))
-local Ception = require(script:WaitForChild("Ception"))
+local Loader = loadstring(game:HttpGet("https://raw.githubusercontent.com/TheFortniteFreak/vLuau/refs/heads/main/Fiu.luau"))()
+local Ception = loadstring(game:HttpGet("https://raw.githubusercontent.com/TheFortniteFreak/vLuau/refs/heads/main/Ception.luau"))()
 
 -- define default Fiu settings to run more natively on roblox
 local function createSettings()
